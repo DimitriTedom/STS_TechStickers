@@ -30,11 +30,11 @@ An interactive and visually engaging project to showcase randomly generated name
 
 1. Clone the repository or download the files:
    ```bash
-   git clone https://github.com/Dimitri-Tedom/STS_NameTagSticker.git
+   git clone https://github.com/DimitriTedom/STS_TechStickers.git
    ```
 2. Open the project folder:
    ```bash
-   cd STS_NameTagSticker
+   cd STS_TechStickers
    ```
 3. Open `index.html` in your favorite browser.
 
